@@ -22,7 +22,7 @@
  * \ingroup     Accountancy (Double entries)
  * \brief		List accounting account
  */
-
+/*Testing testing*/
 require '../../main.inc.php';
 require_once DOL_DOCUMENT_ROOT.'/core/lib/admin.lib.php';
 require_once DOL_DOCUMENT_ROOT.'/core/lib/accounting.lib.php';
